@@ -12,3 +12,4 @@ webdriver-manager==4.0.2
 beautifulsoup4
 matplotlib
 selenium
+torch
